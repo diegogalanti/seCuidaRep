@@ -1,1 +1,1 @@
-web: gunicorn hello.secuidacore
+web: gunicorn hello.hello
