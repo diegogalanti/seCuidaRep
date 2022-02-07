@@ -1,1 +1,1 @@
-web: gunicorn hello.my_awesome_app
+web: gunicorn --chdir ./src hello.my_awesome_app
